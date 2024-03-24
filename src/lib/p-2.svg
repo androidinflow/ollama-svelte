@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 3061.8 3061.8" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="1806.01" cy="1038.93" gradientTransform="matrix(1.07903 -0.102842 0.11365 1.19244 198.421 -93.1885)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="1381.3">
+<stop offset="0" stop-color="#f7f6a0"/>
+<stop offset="1" stop-color="#ac0101" stop-opacity="0.852296"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="2091.48" id="Filter" width="2088.23" x="668.67" y="46.5594">
+<feDropShadow dx="-0.000154275" dy="42" flood-color="#000000" flood-opacity="0.333" in="SourceGraphic" result="Shadow" stdDeviation="15.5"/>
+<feGaussianBlur in="Shadow" result="Blur" stdDeviation="0.75228"/>
+</filter>
+<radialGradient cx="1057.27" cy="881.901" gradientTransform="matrix(0.60872 -0.0580165 0.0565113 0.592927 -89.6025 295.543)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="1174.45">
+<stop offset="0" stop-color="#f7f6a0"/>
+<stop offset="1" stop-color="#ac0101" stop-opacity="0.852296"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="1083.76" id="Filter_2" width="1212.31" x="150.4" y="354.555">
+<feDropShadow dx="-0.000154275" dy="42" flood-color="#000000" flood-opacity="0.333" in="SourceGraphic" result="Shadow" stdDeviation="15.5"/>
+<feGaussianBlur in="Shadow" result="Blur" stdDeviation="0.75228"/>
+</filter>
+<radialGradient cx="1057.27" cy="881.901" gradientTransform="matrix(0.439977 -0.0863116 0.203743 1.03859 132.096 1165.12)" gradientUnits="userSpaceOnUse" id="RadialGradient_3" r="1174.45">
+<stop offset="0" stop-color="#f7f6a0"/>
+<stop offset="1" stop-color="#ac0101" stop-opacity="0.852296"/>
+</radialGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="1832.09" id="Filter_3" width="964.837" x="435.835" y="1291.02">
+<feDropShadow dx="-0.000154275" dy="42" flood-color="#000000" flood-opacity="0.333" in="SourceGraphic" result="Shadow" stdDeviation="15.5"/>
+<feGaussianBlur in="Shadow" result="Blur" stdDeviation="0.777038"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="3061.8" width="3061.8" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<path d="M713.897 1147.13C661.318 595.457 1065.91 105.615 1617.58 53.0362C2169.25 0.456991 2659.09 405.051 2711.67 956.721C2764.25 1508.39 2359.66 1998.23 1807.99 2050.81C1256.32 2103.39 766.476 1698.8 713.897 1147.13Z" fill="url(#RadialGradient)" fill-rule="nonzero" filter="url(#Filter)" stroke="none" vectornator:blur="1.50456" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="42" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="31"/>
+<path d="M193.048 909.766C166.904 635.454 398 389.035 709.217 359.373C1020.43 329.711 1293.92 528.04 1320.06 802.352C1346.21 1076.66 1115.11 1323.08 803.894 1352.75C492.678 1382.41 219.193 1184.08 193.048 909.766Z" fill="url(#RadialGradient_2)" fill-rule="nonzero" filter="url(#Filter_2)" stroke="none" vectornator:blur="1.50456" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="42" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="31"/>
+<path d="M510.956 2246.59C416.696 1766.1 522.637 1340.81 747.581 1296.68C972.525 1252.56 1231.29 1606.3 1325.55 2086.79C1419.81 2567.28 1313.87 2992.57 1088.93 3036.7C863.981 3080.83 605.215 2727.08 510.956 2246.59Z" fill="url(#RadialGradient_3)" fill-rule="nonzero" filter="url(#Filter_3)" stroke="none" vectornator:blur="1.55408" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="42" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="31"/>
+</g>
+</g>
+</svg>
