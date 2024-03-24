@@ -16,7 +16,7 @@ Once downloaded Ollama will open the local version.
 
 ## Clone this Repo
 
-Clone the repo here ZZZZZZZZZZZZZZZ.
+Clone the repo here [https://github.com/Mark2M/svollama-ai-portal](https://github.com/Mark2M/svollama-ai-portal).
 
 ## Install the Dependencies
 
