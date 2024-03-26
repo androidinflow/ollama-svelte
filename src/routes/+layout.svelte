@@ -104,10 +104,10 @@
         <span class='title'>Svollama AI Portal</span>
       </div>
       <div style="grid-column: 2; display: flex; flex-direction: row; gap: 1em;">
-        <span style="transform: translate(3.12em, 1em); drop-shadow: var(--shadow-bottom);">
+        <span class="ollama" style="transform: translate(3.12em, 1em);">
           {@html svgSvelte}
         </span> 
-        <span>
+        <span class="">
           {@html svgOllama}
         </span>
       </div>
@@ -135,3 +135,10 @@
     </div>
 
   </div>  
+
+
+<style>
+
+
+
+</style>

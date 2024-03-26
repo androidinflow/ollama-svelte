@@ -175,11 +175,11 @@
       </p> 
     </center>
   {:else if show }
-    <div style="margin-block: .24em; background-color: #fcfcfc; padding: .22em; border-radius: var(--border-radius); border: 1px solid var(--color-border); display: flex; flex-direction: row;">
+    <div style="margin-block: .66em; background-color: #fcfcfc; padding: .22em; border-radius: var(--border-radius); border: 1px solid var(--color-border); display: flex; flex-direction: row;">
       <label for="promptText" style="padding-bottom: 0; padding-right: 1em;">
         Model
       </label>
-      <select class="input" bind:value={$chatLog.model} style="padding-right: 1em; font-size:larger; flex: 1;">
+      <select class="input" bind:value={$chatLog.model} style="padding-right: 1em; font-size:larger; flex: 1; border: transparent;">
         {#each modelsList as m}
           <option value="{m.name}">{m.name}</option>
         {/each}
@@ -188,7 +188,7 @@
     <p style="
       background-color: #fcfcfc; 
       border-radius: var(--border-radius); 
-      border: 1px solid var(--color-border); 
+      sborder: 1px solid var(--color-border); 
       display: flex; 
       flex-direction: row;
       ">
@@ -212,6 +212,8 @@
           padding: 1em;
           border-radius: 4px;
           resize: none;
+border: 1px solid var(--color-border);
+
           '
         id="promptText"
         rows="3"
